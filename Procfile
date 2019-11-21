@@ -1,1 +1,1 @@
-web: gunicorn salty-rank:app
+web: gunicorn salty_rank:app
